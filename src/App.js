@@ -16,7 +16,7 @@ function App() {
   useEffect(() => {
     // 静的ファイルからデータを読み込み
     Promise.all([
-      fetch('/data/questions.json').then(res => res.json()),
+      fetch('/data/data.json').then(res => res.json()),
       fetch('/data/mbti_characters.json').then(res => res.json()),
       fetch('/data/animal_logic.json').then(res => res.json())
     ])
