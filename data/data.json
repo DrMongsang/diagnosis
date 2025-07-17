@@ -1,0 +1,43 @@
+
+[
+  {
+    "id": 1,
+    "question": "あなたは休日に何をすることが好きですか？",
+    "options": [
+      {"text": "新しい場所を探索する", "mbti_trait": "E", "animal_trait": "active"},
+      {"text": "家でゆっくり過ごす", "mbti_trait": "I", "animal_trait": "calm"},
+      {"text": "友人と会って話す", "mbti_trait": "E", "animal_trait": "social"},
+      {"text": "一人で趣味に没頭する", "mbti_trait": "I", "animal_trait": "independent"}
+    ]
+  },
+  {
+    "id": 2,
+    "question": "新しいプロジェクトを始める時、どのようにアプローチしますか？",
+    "options": [
+      {"text": "全体像を把握し、大きな目標から考える", "mbti_trait": "N", "animal_trait": "visionary"},
+      {"text": "具体的な手順を計画し、詳細から始める", "mbti_trait": "S", "animal_trait": "practical"},
+      {"text": "直感に従い、柔軟に進める", "mbti_trait": "P", "animal_trait": "flexible"},
+      {"text": "論理的に分析し、効率を重視する", "mbti_trait": "T", "animal_trait": "logical"}
+    ]
+  },
+  {
+    "id": 3,
+    "question": "友人との意見の相違があった場合、どう対応しますか？",
+    "options": [
+      {"text": "相手の感情を考慮し、調和を保つ", "mbti_trait": "F", "animal_trait": "harmonious"},
+      {"text": "論理的に自分の意見を説明する", "mbti_trait": "T", "animal_trait": "assertive"},
+      {"text": "一旦引き、後で冷静に話し合う", "mbti_trait": "J", "animal_trait": "patient"},
+      {"text": "その場で解決策を探る", "mbti_trait": "P", "animal_trait": "spontaneous"}
+    ]
+  },
+  {
+    "id": 4,
+    "question": "締め切りが迫っている時、あなたの行動は？",
+    "options": [
+      {"text": "計画通りに進め、早めに終わらせる", "mbti_trait": "J", "animal_trait": "organized"},
+      {"text": "締め切り直前まで粘り、集中して終わらせる", "mbti_trait": "P", "animal_trait": "adaptive"},
+      {"text": "ストレスを感じつつも、なんとかやり遂げる", "mbti_trait": "S", "animal_trait": "resilient"},
+      {"text": "新しいアイデアを思いつき、計画を変更する", "mbti_trait": "N", "animal_trait": "innovative"}
+    ]
+  }
+]
