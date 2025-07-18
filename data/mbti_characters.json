@@ -2,81 +2,97 @@
   {
     "type": "ISTJ",
     "name": "責任感の強い管理者",
-    "description": "事実に基づき、論理的で、責任感が強く、組織的です。"
+    "description": "事実に基づき、論理的で、責任感が強く、組織的です。",
+    "image": "ISTJ.png"
   },
   {
     "type": "ISFJ",
     "name": "献身的な擁護者",
-    "description": "温かく、責任感が強く、細部に気を配り、献身的です。"
+    "description": "温かく、責任感が強く、細部に気を配り、献身的です。",
+    "image": "ISFJ.png"
   },
   {
     "type": "INFJ",
     "name": "洞察力のある提唱者",
-    "description": "洞察力があり、創造的で、理想主義的で、共感的です。"
+    "description": "洞察力があり、創造的で、理想主義的で、共感的です。",
+    "image": "INFJ.png"
   },
   {
     "type": "INTJ",
     "name": "戦略的な建築家",
-    "description": "戦略的で、独立心が強く、論理的で、目標志向です。"
+    "description": "戦略的で、独立心が強く、論理的で、目標志向です。",
+    "image": "INTJ.png"
   },
   {
     "type": "ISTP",
     "name": "冷静な職人",
-    "description": "実践的で、観察力があり、冷静で、適応性があります。"
+    "description": "実践的で、観察力があり、冷静で、適応性があります。",
+    "image": "ISTP.png"
   },
   {
     "type": "ISFP",
     "name": "芸術的な冒険家",
-    "description": "芸術的で、感受性が豊かで、柔軟で、自発的です。"
+    "description": "芸術的で、感受性が豊かで、柔軟で、自発的です。",
+    "image": "ISFP.png"
   },
   {
     "type": "INFP",
     "name": "理想主義的な仲介者",
-    "description": "理想主義的で、好奇心旺盛で、共感的で、創造的です。"
+    "description": "理想主義的で、好奇心旺盛で、共感的で、創造的です。",
+    "image": "INFP.png"
   },
   {
     "type": "INTP",
     "name": "論理的な思想家",
-    "description": "論理的で、分析的で、好奇心旺盛で、独立心が強いです。"
+    "description": "論理的で、分析的で、好奇心旺盛で、独立心が強いです。",
+    "image": "INTP.png"
   },
   {
     "type": "ESTP",
     "name": "エネルギッシュな起業家",
-    "description": "エネルギッシュで、行動的で、現実的で、社交的です。"
+    "description": "エネルギッシュで、行動的で、現実的で、社交的です。",
+    "image": "ESTP.png"
   },
   {
     "type": "ESFP",
     "name": "陽気なエンターテイナー",
-    "description": "陽気で、社交的で、自発的で、現実的です。"
+    "description": "陽気で、社交的で、自発的で、現実的です。",
+    "image": "ESFP.png"
   },
   {
     "type": "ENFP",
     "name": "熱心な広報運動家",
-    "description": "熱心で、創造的で、社交的で、自由奔放です。"
+    "description": "熱心で、創造的で、社交的で、自由奔放です。",
+    "image": "ENFP.png"
   },
   {
     "type": "ENTP",
     "name": "知的な討論者",
-    "description": "知的好奇心旺盛で、議論好きで、革新的で、機知に富んでいます。"
+    "description": "知的好奇心旺盛で、議論好きで、革新的で、機知に富んでいます。",
+    "image": "ENTP.png"
   },
   {
     "type": "ESTJ",
     "name": "効率的な幹部",
-    "description": "効率的で、組織的で、実践的で、決断力があります。"
+    "description": "効率的で、組織的で、実践的で、決断力があります。",
+    "image": "ESTJ.png"
   },
   {
     "type": "ESFJ",
     "name": "親切な領事官",
-    "description": "親切で、社交的で、協力的で、責任感が強いです。"
+    "description": "親切で、社交的で、協力的で、責任感が強いです。",
+    "image": "ESFJ.png"
   },
   {
     "type": "ENFJ",
     "name": "カリスマ的な主人公",
-    "description": "カリスマ性があり、共感的で、インスピレーションを与え、社交的です。"
+    "description": "カリスマ性があり、共感的で、インスピレーションを与え、社交的です。",
+    "image": "ENFJ.png"
   },
   {
     "type": "ENTJ",
     "name": "大胆な指揮官",
-    "description": "大胆で、決断力があり、戦略的で、リーダーシップがあります。"
+    "description": "大胆で、決断力があり、戦略的で、リーダーシップがあります。",
+    "image": "ENTJ.png"
   }
 ]
